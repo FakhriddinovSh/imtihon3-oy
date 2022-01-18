@@ -1,0 +1,16 @@
+body{
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+
+.pokemon-name{
+    font-size: 24px;
+    color: black;
+    font-weight: 400;
+    font-family: 'Rubik Beastly', cursive;
+}
+
+.pokemon-name:hover{
+    font-size: 30px;
+    color: red;
+}
